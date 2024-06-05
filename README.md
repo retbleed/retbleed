@@ -1,1 +1,1 @@
-<img src="https://myreadme.vercel.app/api/embed/retbleed?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
